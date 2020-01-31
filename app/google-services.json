@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35514125391",
+    "firebase_url": "https://sample-login-cem.firebaseio.com",
+    "project_id": "sample-login-cem",
+    "storage_bucket": "sample-login-cem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35514125391:android:bc191867d93751d3d7ae3a",
+        "android_client_info": {
+          "package_name": "com.cemerci.samplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35514125391-6eftabrt1u5t88qfprvkkm9ikitrdbq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cemerci.samplelogin",
+            "certificate_hash": "fc57459eb530feae643bf32cb9a410ea60edcc36"
+          }
+        },
+        {
+          "client_id": "35514125391-q1ovolcij1orhd4kjc8db90ds16h72lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7l311EMUGpyv7-f9F0qtZhGB4Mo0qZW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35514125391-q1ovolcij1orhd4kjc8db90ds16h72lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sample Login MVVM</string>
+    <string name="check_network_connection">Lütfen ağ bağlantınızı kontrol edin</string>
+    <string name="email">*eposta</string>
+    <string name="password">şifre</string>
+    <string name="login">Giris</string>
+    <string name="remember_me">Beni hatırla</string>
+    <string name="or">veya</string>
+    <string name="register">Üye ol</string>
+    <string name="invalid_email">Lütfen geçerli eposta adresi girin</string>
+    <string name="invalid_name">Lütfen geçerli isiminizi girin</string>
+    <string name="invalid_lastname">Lütfen geçerli soyisminizi girin</string>
+    <string name="invalid_password">Lütfen geçerli bir şifre girin</string>
+    <string name="name">*ad</string>
+    <string name="last_name">*soyad</string>
+    <string name="add_photo">profil fotoğrafı</string>
+    <string name="user_not_found">Kullanıcı bulunamadı! Lütfen bilgilerinizi kontrol edin.</string>
+    <string name="register_succes">Üyelik işlemi tamamlandı</string>
+    <string name="user_exists">Bu eposta adresi sistemde mevcut! Giriş yapabilirsiniz.</string>
+    <string name="user_informations">Kullanıcı Bilgileri</string>
+    <string name="save_changes">Değişiklikleri Kaydet</string>
+    <string name="remove_account">Hesabı Kapat</string>
+    <string name="logged_out">Oturumu Kapat</string>
+</resources>

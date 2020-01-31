@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Sample Login MVVM</string>
+    <string name="check_network_connection">Please check your network connection</string>
+    <string name="email">*email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember me</string>
+    <string name="or">or</string>
+    <string name="register">Register</string>
+    <string name="invalid_email">Please provide a valid email</string>
+    <string name="invalid_name">Please provide a valid Name</string>
+    <string name="invalid_lastname">Please provide a valid Last Name</string>
+    <string name="invalid_password">Please provide a valid password</string>
+    <string name="name">*name</string>
+    <string name="last_name">*last name</string>
+    <string name="add_photo">profile picture</string>
+    <string name="user_not_found">User not found, please check your email or register.</string>
+    <string name="register_succes">Register succes</string>
+    <string name="user_exists">User already exits, check your mail please.</string>
+    <string name="user_informations">User Informations</string>
+    <string name="save_changes">Save changes</string>
+    <string name="remove_account">Remove account</string>
+    <string name="logged_out">Logged out</string>
 </resources>
